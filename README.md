@@ -1,3 +1,5 @@
+![Cards logo](web/public/Banner.jpg)
+
 # Cards: My Personal Research Assistant
 
 **Version:** v0.1 (Core Functionality Implemented)
